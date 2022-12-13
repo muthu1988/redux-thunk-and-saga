@@ -1,5 +1,5 @@
 # redux-thunk-and-saga
-Redux middle wares - Thunk and Saga
+Redux middlewares - Thunk and Saga
 
 This project has redux thunk and saga implementaion with redux tool kit, it will help in inderstanding the difference between them by running them seperately.
 
